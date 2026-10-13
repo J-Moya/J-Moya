@@ -6,7 +6,7 @@
 
 **Bridging business, data, and technology to build practical solutions.**
 
-📍 Cartago, Costa Rica &nbsp;•&nbsp; 🌐 Spanish, English, Portuguese & French &nbsp;•&nbsp; 🎓 Software Engineering student
+📍 Cartago, Costa Rica &nbsp;•&nbsp; 🌐 Spanish, English, Portuguese & French &nbsp;•&nbsp; 🎓 Bachelor Degree in Accounting & Software Engineering student
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:hernandezmoya1@gmail.com)
 <!-- Optional: Add your actual LinkedIn URL below and remove this comment.
